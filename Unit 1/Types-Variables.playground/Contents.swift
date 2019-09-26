@@ -45,6 +45,11 @@ var result = 70 < 100 // true
 
 print(result)
 
+// Constants //
+
+let pi = 3.14
+
+
 var otherResult = result && true
 
 print(otherResult)
